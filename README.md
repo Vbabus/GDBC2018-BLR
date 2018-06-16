@@ -1,7 +1,18 @@
 # Welcome to Global DevOps BootCamp 2018 - Bengaluru 
 
+##             **WiFi Name: 123**
+##             **Password :p2ajaPre**
+
+************************************************************************************
+
+
+
+
+
 ## First thing first 
 ### Please register your presence at https://goo.gl/forms/7iDjGEkKQAZTnmWk2
+
+
 
 ************************************************************************************
 ### Tweet about the event 
